@@ -16,8 +16,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/sp500-stock-dashboard.git
-    cd sp500-stock-dashboard
+    git clone https://github.com/TanmoyGuria/Stock.git
+    cd Stock
     ```
 
 2. **Install the required packages**:
